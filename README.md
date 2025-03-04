@@ -10,9 +10,4 @@ Este es mi portafolio personal en línea, creado para mostrar mis habilidades y 
 - Excel
 - HTML & CSS
 
-Puedes navegar por mi portafolio para ver ejemplos de mis proyectos de análisis de datos, dashboards, y mucho más.
-
-## ¿Cómo visualizar el portafolio?
-
-Puedes visitar el sitio en la siguiente URL:  
-https://usuario.github.io/portafolio-analista-datos/
+Puedes navegar por mi portafolio para ver ejemplos de mis proyectos de análisis de datos y dashboards.
